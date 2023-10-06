@@ -19,8 +19,8 @@ const Register = (props: any) => {
   const [confirmPass, setConfirmPass] = useState('');
 
   // VARIAVEIS
-  const wallpaperImage: string = '../images/lofi_wallpaper2.png';
-  const iconImage: string = '../images/lofi.png';
+  const wallpaperImage: string = '../images/lofi_wallpaper2.jpeg';
+  const iconImage: string = '../images/lofi.jpeg';
 
   // FUNÇÕES
   function navigateBack() {

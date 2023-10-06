@@ -18,8 +18,8 @@ const Home = (props: any) => {
   const [pass, setPass] = useState('');
 
   // VARIAVEIS
-  const wallpaperImage: string = '../images/lofi_wallpaper.png';
-  const iconImage: string = '../images/lofi_icon1.png';
+  const wallpaperImage: string = '../images/lofi_wallpaper.jpeg';
+  const iconImage: string = '../images/lofi_icon1.jpeg';
 
   // FUNÇÕES
   function navigateToRegister() {
